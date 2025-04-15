@@ -87,5 +87,6 @@ me = FullStackDeveloper()
 
 
 
-## 💡 Let's Build the Future of AI Together!
-Feel free to reach out for collaborations, discussions, or just to chat about AI and tech!
+## 💡 I believe great things start with a conversation.  
+Let’s connect and see where ideas take us.
+
