@@ -5,7 +5,7 @@
 
 <br>
 
-<img height="300" width="300" align="right" src="/tr.jpg" alt="Logo">
+<img height="300" width="300" margin-top="50px" align="right" src="/tr.jpg" alt="Logo">
 
 # About <span style="color:#FF9100">Me</span>:
 🎓 I’m a passionate **Full Stack Developer**, crafting seamless experiences with **React.js**, **Node.js**, and **Python**.  
