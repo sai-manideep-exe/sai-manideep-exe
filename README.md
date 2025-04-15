@@ -18,7 +18,7 @@
 
 
 ## 🔗 Let's Connect:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/saimanideepnagulapati/)   [![Discord](https://img.shields.io/badge/@vortory-5539CC.svg?logo=discord&logoColor=white)]() [![MyAnimeList](https://img.shields.io/badge/MyAnimeList-2E51A2?logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/Itachi_510) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manideep.nagulapati@gmail.com) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/saimanideepnagulapati/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manideep.nagulapati@gmail.com) [![MyAnimeList](https://img.shields.io/badge/MyAnimeList-2E51A2?logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/Itachi_510)
 
 
 ---
