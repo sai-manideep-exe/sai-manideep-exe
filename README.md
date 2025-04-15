@@ -77,10 +77,11 @@ me = FullStackDeveloper()
 ```
 
 ## 📈 GitHub <span style="color:#FF9100">Statistics</span>:
+<p align="left"> <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="display: inline-block;"></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sai-manideep-exe&show_icons=true&locale=en" alt="sai-manideep-exe" /></p>
 
-<p align="left"> <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" /></a></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sai-manideep-exe&show_icons=true&locale=en&layout=compact" alt="sai-manideep-exe" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sai-manideep-exe" alt="sai-manideep-exe" /></a></p>
-
 
 ![](https://komarev.com/ghpvc/?username=sai-manideep-exe&color=ff652f&base=1000&style=for-the-badge)
 
