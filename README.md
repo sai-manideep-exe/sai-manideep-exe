@@ -83,9 +83,6 @@ me = FullStackDeveloper()
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sai-manideep-exe&show_icons=true&locale=en&layout=compact" alt="sai-manideep-exe" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sai-manideep-exe" alt="sai-manideep-exe" /></a></p>
 
-![](https://komarev.com/ghpvc/?username=sai-manideep-exe&color=ff652f&base=1000&style=for-the-badge)
-
-![](https://github-profile-trophy.vercel.app/?username=sai-manideep-exe&no-frame=true&theme=gruvbox&row=1&column=10)
 
 
 
