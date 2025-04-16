@@ -85,14 +85,12 @@ me = FullStackDeveloper()
 ```
 
 ## 📈 GitHub <span style="color:#FF9100">Statistics</span>:
-<p align="left"> <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="display: inline-block;"></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sai-manideep-exe&show_icons=true&locale=en&theme=dark" alt="sai-manideep-exe" /></p>
+![](https://github-readme-stats.vercel.app/api?username=sai-manideep-exe&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sai-manideep-exe&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sai-manideep-exe&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sai-manideep-exe&show_icons=true&locale=en&layout=compact&theme=dark" alt="sai-manideep-exe" />
-</p>
-
-![](https://komarev.com/ghpvc/?username=sai-manideep-exe&color=blueviolet)
-
+---
+[![](https://visitcount.itsvg.in/api?id=sai-manideep-exe&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
