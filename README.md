@@ -57,7 +57,7 @@ class FullStackDeveloper:
             "AI/ML Research",
             "Prompt Engineering",
             "Creative Coding",
-            "Reading Self-Development Books"
+            "Reading Self-Development Books",
             "Anime & Sci-Fi",
             "Space Exploration",
             "Music & Art"
