@@ -83,8 +83,10 @@ me = FullStackDeveloper()
 <p align="left"> <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="display: inline-block;"></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sai-manideep-exe&show_icons=true&locale=en&theme=dark" alt="sai-manideep-exe" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sai-manideep-exe&show_icons=true&locale=en&layout=compact&theme=dark" alt="sai-manideep-exe" /></p>
-![](https://github-profile-trophy.vercel.app/?username=sai-manideep-exe&no-frame=true&theme=gruvbox&row=1&column=10)
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sai-manideep-exe&show_icons=true&locale=en&layout=compact&theme=dark" alt="sai-manideep-exe" />
+<img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sai-manideep-exeR&theme=codeSTACKr"/>
+</p>
+
 
 
 
