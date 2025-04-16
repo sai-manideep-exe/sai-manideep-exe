@@ -1,10 +1,6 @@
 <img height="300" width="1240" src="/space.jpg" alt="AI Engineer Banner">
-<h1 align="center">
-  <img src="GIF/Earth.gif" width="24px"/>
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
-  <img src="GIF/Hi.gif" width="40px" />
-</h1>
-<h1 align="center">I am Sai Manideep Nagulapati</h1>
+
+<h1 align="center">Hello there, I am Sai Manideep Nagulapati <img src="GIF/Hi.gif" width="40px" /> </h1>
 <h3 align="center">Full Stack Developer | AI Enthusiast | Problem Solver 🚀</h3>
 
 <br/>
