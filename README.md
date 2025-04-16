@@ -84,6 +84,7 @@ me = FullStackDeveloper()
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sai-manideep-exe&show_icons=true&locale=en&theme=dark" alt="sai-manideep-exe" /></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sai-manideep-exe&show_icons=true&locale=en&layout=compact&theme=dark" alt="sai-manideep-exe" /></p>
+![](https://github-profile-trophy.vercel.app/?username=sai-manideep-exe&no-frame=true&theme=gruvbox&row=1&column=10)
 
 
 
