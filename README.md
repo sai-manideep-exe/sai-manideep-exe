@@ -84,7 +84,7 @@ me = FullStackDeveloper()
 
 ```
 
-## 📈 GitHub <span style="color:#FF9100">Statistics</span>:
+## 📊 GitHub <span style="color:#FF9100">Statistics</span>:
 ![](https://github-readme-stats.vercel.app/api?username=sai-manideep-exe&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sai-manideep-exe&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sai-manideep-exe&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
