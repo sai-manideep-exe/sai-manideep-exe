@@ -94,6 +94,6 @@ me = FullStackDeveloper()
 
 
 
-## 💡 I believe great things start with a conversation.  
+## 💡 I believe great things start with a conversation  
 Let’s connect and see where ideas take us.
 
