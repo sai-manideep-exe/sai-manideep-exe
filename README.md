@@ -92,8 +92,6 @@ me = FullStackDeveloper()
 <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-manideep-exe&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats-two-drab.vercel.app?user=sai-manideep-exe&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sai-manideep-exe&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
