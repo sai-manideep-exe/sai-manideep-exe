@@ -92,6 +92,8 @@ me = FullStackDeveloper()
     
     
 <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-manideep-exe&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sai-manideep-exe&theme=highcontrast" alt="GitHub Streak" /></a>
 </p>
 
 
@@ -101,7 +103,7 @@ me = FullStackDeveloper()
 ---
 [![](https://visitcount.itsvg.in/api?id=sai-manideep-exe&icon=0&color=0)](https://visitcount.itsvg.in)  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sai-manideep-exe)](https://git.io/streak-stats)
+
 
 
 
