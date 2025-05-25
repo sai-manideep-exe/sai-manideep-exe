@@ -4,11 +4,11 @@
 <h3 align="center">Full Stack Developer | AI Enthusiast | Problem Solver 🚀 </h3>
 
 <br/>
-<br/>
+
 
 <img height="300" width="300" align="right" src="/tr.jpg" alt="Logo">
 
-<br/>
+
 
 # About <span style="color:#FF9100">Me</span>:
 🎓 I’m a passionate **Full Stack Developer**, crafting seamless experiences with **React.js**, **Node.js**, and **Python**.  
