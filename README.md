@@ -3,13 +3,11 @@
 <h1 align="center">Hello there, I am Sai Manideep Nagulapati <img src="GIF/Hi.gif" width="40px" /> </h1>
 <h3 align="center">Full Stack Developer | AI Enthusiast | Problem Solver 🚀 </h3>
 
+</bb>
 <br/>
 
 
 <img height="300" width="300" align="right" src="/tr.jpg" alt="Logo">
-
-
-
 # About <span style="color:#FF9100">Me</span>:
 🎓 I’m a passionate **Full Stack Developer**, crafting seamless experiences with **React.js**, **Node.js**, and **Python**.  
 💻 Building **dynamic, scalable applications** with both front-end and back-end expertise.  
