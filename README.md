@@ -3,7 +3,7 @@
 <h1 align="center">Hello there, I am Sai Manideep Nagulapati <img src="GIF/Hi.gif" width="40px" /> </h1>
 <h3 align="center">Full Stack Developer | AI Enthusiast | Problem Solver 🚀 </h3>
 
-</bb>
+<br/>
 <br/>
 
 
