@@ -99,7 +99,7 @@ me = FullStackDeveloper()
 
 <p align="center>
  
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sai-manideep-exe&theme=highcontrast&hide_border=true&border_radius=3.3" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sai-manideep-exe&theme=highcontrast&hide_border=true&border_radius=3.3" alt="GitHub Streak" /> </a>
 </p>
 
  </p>
