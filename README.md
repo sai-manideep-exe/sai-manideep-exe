@@ -1,4 +1,4 @@
-<img height="300" width="1240" src="GIF/Hi.gif" alt="Full Stack Developer Banner">
+<img height="300" width="1240" src="space.jpg" alt="Full Stack Developer Banner">
 
 <h1 align="center">Hello there, I am Sai Manideep Nagulapati <img src="GIF/Hi.gif" width="40px" /> </h1>
 <h3 align="center">Full Stack Developer | AI Enthusiast | Problem Solver 🚀 </h3>
