@@ -62,7 +62,6 @@ class FullStackDeveloper:
             "Web Development",
             "AI/ML Research",
             "Prompt Engineering",
-            "Creative Coding",
             "Reading Self-Development Books",
             "Pushing limits in the gym",
             "Anime & Sci-Fi",
