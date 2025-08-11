@@ -8,15 +8,29 @@
 
 
 
-<img height="300" width="300" align="right" src="/tr.jpg" alt="Logo">
+<table>
+  <tr>
+    <!-- Left side: Bio -->
+    <td width="65%" valign="top">
+      
+  <h3>👩‍💻 About Me</h3>
 
-## About <span style="color:#FF9100">Me</span>:
-🎓 I’m a passionate **Full Stack Developer**, crafting seamless experiences with **React.js**, **Node.js**, and **Python**.  
-💻 Building **dynamic, scalable applications** with both front-end and back-end expertise.  
-🌱 Currently diving into **Generative AI**, experimenting with **LangChain**, and exploring the **future of tech**.  
-⚡ Ask me about **full-stack development, AI, or anything tech**—I’m always up for a conversation!  
-✨ *Fun fact:* I believe in **consistency** and the power of **small, steady progress**.  
-🔥 *Motto:* *“Don’t count the days—earn the right to say they counted.”*
+- 🎓 I’m a passionate **Full Stack Developer**, crafting seamless experiences with **React.js**, **Node.js**, and **Python**.  
+- 💻 Building **dynamic, scalable applications** with both front-end and back-end expertise.  
+- 🌱 Currently diving into **Generative AI**, experimenting with **LangChain**, and exploring the **future of tech**.  
+- ⚡ Ask me about **full-stack development, AI, or anything tech**—I’m always up for a conversation!  
+- ✨ *Fun fact:* I believe in **consistency** and the power of **small, steady progress**.  
+- 🔥 *Motto:* *“Don’t count the days—earn the right to say they counted.”*
+
+    </td>
+
+    <!-- Right side: Image -->
+    <td align="center" width="40%">
+      <img src="/tr.jpg" width="400" height="700" style="border-radius: 50%; box-shadow: 0 0 12px rgba(0,0,0,0.2);" alt="Priyanka Avatar" />
+    </td>
+  </tr>
+</table>
+
 
 ## 🚀 Portfolio: <a href="https://sai-manideep.vercel.app/">Visit My Portfolio</a>
 
